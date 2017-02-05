@@ -10,3 +10,7 @@ Name, and (optionally) Contact Info
 	* Email: howardfrancis@upike.edu
 	* IRC: howardf
   
+* Matt Cleary
+	* GitHub: matthewcleary [https://github.com/matthewcleary]
+	* Email: matthewcleary@bears.upike.edu
+	* IRC: matthewCl
