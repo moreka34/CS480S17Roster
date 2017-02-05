@@ -11,6 +11,6 @@ Name, and (optionally) Contact Info
 	* IRC: howardf
   
 * Matt Cleary
-	* GitHub: matthewcleary
+	* GitHub: matthewcleary [https://github.com/matthewcleary]
 	* Email: matthewcleary@bears.upike.edu
 	* IRC: matthewCl
