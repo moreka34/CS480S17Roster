@@ -14,3 +14,8 @@ Name, and (optionally) Contact Info
 	* GitHub: matthewcleary [https://github.com/matthewcleary]
 	* Email: matthewcleary@bears.upike.edu
 	* IRC: matthewCl
+
+* Justin Smith
+	* GitHub jsmitha9 [https://gihub.com/jsmitha9]
+	* Email: justinsmith00@bears.upike.edu
+	* IRC: jsmith9
