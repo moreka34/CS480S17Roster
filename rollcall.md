@@ -21,6 +21,7 @@ Name, and (optionally) Contact Info
 	* IRC: jsmith9
 	
 * Moreka Buchanan
-        * GitHub moreka34 [https://github.com/moreka34]
+        
+	* GitHub moreka34 [https://github.com/moreka34]
 	* Email: morekabuchanan@bears.upike.edu
 	* IRC: mbuchanan25
