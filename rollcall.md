@@ -19,3 +19,8 @@ Name, and (optionally) Contact Info
 	* GitHub jsmitha9 [https://gihub.com/jsmitha9]
 	* Email: justinsmith00@bears.upike.edu
 	* IRC: jsmith9
+	
+* Moreka Buchanan
+        * GitHub moreka34 [https://github.com/moreka34]
+	* Email: morekabuchanan@bears.upike.edu
+	* IRC: mbuchanan25
